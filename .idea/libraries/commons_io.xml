@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-io">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/commons-io-2.4/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../lib/commons-io-2.4/commons-io-2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lib/commons-io-2.4/commons-io-2.4-src.zip!/commons-io-2.4-src/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../lib/commons-io-2.4/commons-io-2.4-src.zip!/commons-io-2.4-src/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

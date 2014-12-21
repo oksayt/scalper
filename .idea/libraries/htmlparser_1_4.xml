@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="htmlparser-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/htmlparser-1.4/htmlparser-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../lib/htmlparser-1.4/src" />
+    </SOURCES>
+  </library>
+</component>
